@@ -35,9 +35,9 @@ Excel (PivotTables, SUMIFS, formulas), SQL (SQLite)
 ## Files
 | File | Purpose |
 |---|---|
-| `data/` | The three CSV files |
-| `sql/analysis.sql` | Five queries, each with a comment |
-| `excel/store_ops_analysis_final.xlsx` | Pivots and findings sheet |
+| `daily_performance.csv`, `product_waste.csv`, `stores.csv` | The three simulated datasets |
+| `analysis.sql` | Five queries, each with a comment |
+| `store_ops_analysis_final.xlsx` | Pivots and findings sheet |
 
 ## Limitations
 Data is simulated, so findings illustrate the method and are not claims about any real business. The savings are not estimated here.
