@@ -1,0 +1,9 @@
+store_id,store_name,region,store_type,store_size,target_labour_pct,target_waste_pct
+S01,High Street North,London,High Street,Medium,27.0,4.0
+S02,Station Concourse,London,Transport Hub,Large,27.0,4.0
+S03,Retail Park East,South East,Retail Park,Medium,27.0,4.0
+S04,Shopping Centre Central,Midlands,Shopping Centre,Large,27.0,4.0
+S05,High Street South,South East,High Street,Medium,27.0,4.0
+S06,Retail Park West,North West,Retail Park,Small,27.0,4.0
+S07,Airport Terminal,London,Transport Hub,Large,27.0,4.0
+S08,Market Square,Midlands,High Street,Small,27.0,4.0
